@@ -17,7 +17,7 @@ This repository serves as a comprehensive portfolio of my work within the **Comp
 
 ## ⚙️ Junior Year: Systems Administration & Security Operations
 *Deep dive into managing segmented environments, including Windows Server configuration, Active Directory/LDAP management, and deploying SIEM integrations.*
-* ↳ [Insert Link to Project 1 Here] - *One-sentence description of the project.*
+* ↳ [3D-Printed Custom Mini-PC TrueNAS Build](https://github.com/esixtosr/3D-Printed-TRUENAS) - *Designed and fabricated a custom SFF TrueNAS appliance to handle network storage, host media servers, and provide a reliable bare-metal virtualization sandbox for security projects.*
 
 ## 🛡️ Senior Year: Enterprise Security & Compliance
 *Focus on high-level security coordination, including network segregation, drafting audit-ready ISMS documentation, and aligning with ISO 27001 standards.*
